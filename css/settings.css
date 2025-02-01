@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.main{
+    position: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display:blue;
+    font-size:40px;
+    padding: 5px;
+    text-decoration: underline;
+    color: #EAFAEA;
+}
+h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 15px;
+}
+HTML {
+    background-color:#6E8E59;
+    font-size:20px;
+}
+
