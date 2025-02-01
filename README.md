@@ -76,6 +76,13 @@ This experience helped me grow as a developer, improving my skills in:
 Conclusion
 The Productivity Extension is a powerful tool designed to boost productivity and reduce distractions while using Google Chrome. By blocking websites, tracking focus time, and offering customization options, it helps users stay on track and develop better work habits.
 
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/b4a1282a-28a9-4ee0-be60-5022d662e44e)
+![Image](https://github.com/user-attachments/assets/ac25a8f8-293c-4f07-a51a-cd9275b890cf)
+![Image](https://github.com/user-attachments/assets/611f4182-785c-48bf-9d2d-0eb735b8f434)
+
 Developing this extension as part of my internship at CodTech IT Solutions was a valuable learning experience, allowing me to enhance my full-stack development skills and apply them in a real-world project.
 
 OUTPUT:
